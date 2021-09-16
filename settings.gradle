@@ -1,0 +1,2 @@
+rootProject.name = "My CameraX Study"
+include ':app'
